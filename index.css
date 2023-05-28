@@ -1,0 +1,105 @@
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.col {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a {
+   
+    
+    margin-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.b {
+    margin-top: 3%;
+}
+
+.displaying-cards {
+    color: white;
+    border-radius: 5%;
+    background-color: #222831;
+    margin-bottom: 10%;
+    
+
+}
+
+.labrador {
+    border-radius: 10%;
+    height: 40rem;
+    width: 60rem;
+}
+
+.p1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2.5rem;
+}
+
+.persian-cat {
+    border-radius: 50%;
+    height: 40rem;
+    width: 60rem;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.shihtzu {
+    border-radius: 50%;
+    height: 40rem;
+    width: 60rem;
+}
+
+.btn {
+    margin-top: 2%;
+}
+
+.form-section {
+    margin-top: 10%;
+    margin-left: 20%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+.form-p{
+    margin-top: 5%;
+    font-size: 2.5rem;
+}
+
+.format-col{
+    margin-top: 4%;
+}
+
+.pet-choice{
+    margin-top: 5%;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.pet-choice-header{
+    margin-left: 15%;
+}
+
+.choosing-animal{
+    padding-top: 5%;
+    margin-left: 10%;
+    
+}
+
+.choosing-animal-button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+marquee{
+    margin-top: 7%;
+}
+
+footer{
+    margin-top: 7%;
+}
